@@ -1,0 +1,3 @@
+com.astlaure.alloys.AlloysAutoConfig
+com.astlaure.alloys.users.UserAutoConfig
+com.astlaure.alloys.auth.AuthAutoConfig
