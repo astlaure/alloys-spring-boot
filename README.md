@@ -35,3 +35,11 @@ org.springframework.boot.autoconfigure.AutoConfiguration.imports
 ## Project structure
 
 Look at the repo structure
+
+## IntelliJ warnings
+
+1. Cannot autowire repositories
+    Go in Project Settings -> Facets\
+    Select Spring -> Click the +\
+    Other files and select the repository file\
+    This will create a Context with the repository in it
